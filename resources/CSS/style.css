@@ -4,8 +4,33 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.header--main {
+h1 {
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
+}
+
+#yptg{
+    font-weight: 300;
+    font-size: 42px;
+}   
+p{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color:grey;
+}
+a{
+    color:aquamarine;
+    text-align: center;    
+    font-size: 16px;
+}
+img,video{
+    padding: 10px;
+    margin: auto;
+}
+footer{    
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
 }
